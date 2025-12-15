@@ -305,14 +305,6 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 This portfolio is for **educational purposes**. Use the code and concepts to learn, but ensure proper testing and validation before production deployment in safety-critical automotive systems.
 
----
-
-## 📧 Contact
-
-**Questions or collaboration?**
-- Open an [Issue](https://github.com/YOUR_USERNAME/ml-automotive-portfolio/issues)
-- LinkedIn: [Your Profile]
-- Email: [Your Email]
 
 ---
 
