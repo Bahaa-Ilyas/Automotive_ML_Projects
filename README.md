@@ -338,6 +338,6 @@ Special focus on:
 
 ### 🚗 Ready to Start Your Automotive ML Journey?
 
-**[Begin with Project 1](project_01_predictive_maintenance/)** | **[View Roadmap](PROJECT_ROADMAP.md)** | **[Quick Start](QUICK_START.md)**
+**[Begin with Project 1](project_01_predictive_maintenance/)** 
 
 </div>
